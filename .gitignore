@@ -12,8 +12,7 @@ dist
 dist-ssr
 *.local
 
-# Tooling / local
-.claude/
+# Local
 .tmp*/
 
 # Editor directories and files
